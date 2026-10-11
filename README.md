@@ -90,7 +90,7 @@ An intelligent drilling-support application designed to help users explore opera
   <img src="https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore NWIS repository"/>
 </a>
 
-### 02 · Know Your PCOS Risk Early
+### 02 · PCOS Risk Predictor
 **Individual Project · Explainable ML**
 
 A Streamlit-based awareness application that estimates PCOS risk from symptom-based and clinical inputs.
